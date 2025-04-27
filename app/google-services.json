@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096857036339",
+    "project_id": "wiwiwi-42c76",
+    "storage_bucket": "wiwiwi-42c76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096857036339:android:b7234e0ef8ba517b48a546",
+        "android_client_info": {
+          "package_name": "com.example.wiwiwicourses"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQsHUKmurpDo5FGEcRFe1lZkzRWBqADug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
